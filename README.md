@@ -1,2 +1,3 @@
 # wjdsqdk
-无
+ThisprojectisdevelopedusingTuyaSDK,whichenablesyoutoquicklydevelopbrandedappsconnectingandcontrollingsmartscenariosofmanydevices.
+Formoreinformation,pleasecheckTuyaDeveloperWebsite.
